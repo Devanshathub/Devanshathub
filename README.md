@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Devansh Shandilya</h1>
 <h3 align="center">Unleashing The Full-Stack Magic: Crafting Dynamic and Seamless Web Applications</h3>
-
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/rTZkf4K.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshathub&label=Profile%20views&color=0e75b6&style=flat" alt="devanshathub" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Flipkart Clone App**
+- 🔭 I’m currently working on **Flipkart Clone App .**
 
 - 🔰 I’m currently learning **Nodejs .**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Devanshathub](https://github.com/Devanshathub)
 
-- 📝 Looking for collabarition [on a web app.](on a web app.)
+- 📝 Looking for collabarition on a web app.
 
-- 💬 Ask me about **Html ,Css,Javascript,React ,Dbms,Os .**
+- 💬 Ask me about **Html ,Css,Javascript,React ,DBMS,OS .**
 
 - 📫 How to reach me **pratyakshshandilya34@gmail.com**
 
